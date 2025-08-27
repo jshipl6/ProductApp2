@@ -24,4 +24,4 @@ builder.Services.AddSingleton<IPriceCalculator, PriceCalculator>();
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ProductApp.git
+   git clone https://github.com/jshipl6/ProductApp2.git
